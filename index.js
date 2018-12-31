@@ -23,7 +23,7 @@ function dec(a){ //Decrement a by 1 and return the result.
   number = a - 1;
   return number;
 }
-function makeInt(a){ //Parse a as an integer and return that integer.
+function makeInt(a){ 
   number = parseInt(a, 10);
   return number;
 }
